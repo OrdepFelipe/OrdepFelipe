@@ -1,5 +1,5 @@
 - 👋 Olá, sou o Pedro Felipe!
-- 🌱 Atualmente estou estudando JavaScript e Modelagem de banco de dados.
+- 🌱 Atualmente estou estudando JavaScript.
 
 <div>
   <a href="https://github.com/OrdepFelipe">
