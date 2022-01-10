@@ -1,5 +1,6 @@
-- 👋 Olá, sou o Pedro Felipe!
-- 🌱 Atualmente estou estudando JavaScript.
+- Olá, sou o Pedro Felipe!
+- - Em fevereiro iniciarei o curso de Sistemas de Informação.
+- Atualmente estou estudando JavaScript e React.
 
 <div>
   <a href="https://github.com/OrdepFelipe">
