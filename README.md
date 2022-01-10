@@ -1,5 +1,5 @@
 - Olá, sou o Pedro Felipe!
-- - Em fevereiro iniciarei o curso de Sistemas de Informação.
+- Em fevereiro iniciarei o curso de Sistemas de Informação.
 - Atualmente estou estudando JavaScript e React.
 
 <div>
