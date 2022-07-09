@@ -1,5 +1,5 @@
 - Olá, sou o Pedro Felipe!
-- Em fevereiro iniciarei o curso de Sistemas de Informação.
+- Bacharel em Ciência da Computação.
 - Atualmente estou estudando JavaScript.
 <div>
   <a href="https://github.com/OrdepFelipe">
