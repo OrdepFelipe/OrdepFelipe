@@ -1,6 +1,5 @@
 - Olá, sou o Pedro Felipe!
-- Bacharel em Ciência da Computação.
-- Atualmente estudando Java.
+
 <div>
   <a href="https://github.com/OrdepFelipe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OrdepFelipe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
